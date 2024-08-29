@@ -1,0 +1,6 @@
+br/lpm/main/Main.class
+br/lpm/business/Pessoa.class
+br/lpm/business/FormacaoAcademica.class
+br/lpm/business/Dataset.class
+br/lpm/business/Profissao.class
+br/lpm/business/EstadoCivil.class
